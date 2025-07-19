@@ -15,7 +15,7 @@
 ### ✨ 主要项目 (Key Projects)
 
 - **[zerokaze_blog_sveltekit](https://github.com/hashcowuwu/zerokaze_blog_sveltekit)** - 基于 SvelteKit 搭建的个人博客。
-- **[portfolio](https://github.com/hashcowuwu/portfolio)** - 我的个人项目作品集。
+- **[lychee](hhttps://github.com/hashcowuwu/lychee)** - 基于golang 的服务器监测工具
 
 ---
 
