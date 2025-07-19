@@ -1,5 +1,3 @@
-# hashcowuwu
-
 [我的博客](https://hashcowuwu.github.io/zerokaze_blog_sveltekit/) · [联系邮箱](mailto:erfu81856@gmail.com)
 
 ---
