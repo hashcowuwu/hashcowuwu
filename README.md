@@ -1,7 +1,5 @@
 # hashcowuwu
 
-一位专注于 TypeScript 和 C++ 的开发者。
-
 [我的博客](https://hashcowuwu.github.io/zerokaze_blog_sveltekit/) · [联系邮箱](mailto:erfu81856@gmail.com)
 
 ---
@@ -15,7 +13,7 @@
 ### ✨ 主要项目 (Key Projects)
 
 - **[zerokaze_blog_sveltekit](https://github.com/hashcowuwu/zerokaze_blog_sveltekit)** - 基于 SvelteKit 搭建的个人博客。
-- **[lychee](hhttps://github.com/hashcowuwu/lychee)** - 基于golang 的服务器监测工具
+- **[lychee](https://github.com/hashcowuwu/lychee)** - 基于golang 的服务器检测工具。
 
 ---
 
